@@ -1,0 +1,11 @@
+1. first install pygame by going into command prompt and type "pip install pygame" it will automatically install it. internet connctionis required to install.
+2. open it by clicking right click and run/edit with IDLE (3.6.5).
+3. run the programme.
+	
+NOTE:
+please first load songs folder for first folder if not autoload
+add songs in songsfolder to play more
+
+
+----- created by Hridhanu Bose -------
+----- Thankyou --------
